@@ -1,11 +1,7 @@
 
-<!-- 🔥 TOP HEADER -->
+<!-- 🔥 BIG WELCOME + NAME ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F5FF&height=220&section=header&text=Varanesh%20P%20R&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Computer+Science+Student;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Hi+I'm+Varanesh+P+R;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -13,13 +9,12 @@
 # 👋 About Me
 
 🎓 Computer Science Student  
-💻 Java Developer in Progress  
-🧠 Strong Focus on DSA & Problem Solving  
-🚀 Building Real-World Projects  
+💻 Aspiring Java Developer  
+🚀 Passionate about Problem Solving & Development  
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Skills
 
 ## 💻 Programming & DSA
 <p>
@@ -30,24 +25,23 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Status
+
+⭐ Public Repositories: Check profile  
+📈 Contributions: Active on GitHub  
+💻 Focus: Java + DSA + SQL  
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical" />
 </p>
 
 ---
 
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
-</p>
-
----
-
-# 📈 Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanesh-PR&theme=react-dark" />
@@ -55,17 +49,9 @@
 
 ---
 
-# 🏆 Achievements
+# 🧠 Dev Quote
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varanesh-PR&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
-</p>
-
----
-
-# 🧠 Dev Philosophy
-
-> “Code is not written to impress machines, but to solve human problems.”
+> “Every problem I solve in DSA makes me a better problem solver in real life.”
 
 ---
 
@@ -85,4 +71,4 @@
 
 ---
 
-# ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub Profile!
