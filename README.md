@@ -40,8 +40,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&cache_seconds=1800" height="180"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact&cache_seconds=1800" height="180"/>
 </p>
 
 ---
