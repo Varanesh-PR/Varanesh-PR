@@ -73,7 +73,7 @@ To become a skilled Software Developer by building real-world projects and conti
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=radical)
 
 ---
 
