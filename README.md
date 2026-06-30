@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Varanesh P R
 
-<!--
-**Varanesh-PR/Varanesh-PR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Java Developer
+
+🌱 Currently learning:
+- Core Java
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- SQL
+- Python
+
+🎯 Goal:
+To become a skilled Software Developer by building real-world projects and continuously improving my programming and problem-solving skills.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Java
+- Python
+- SQL
+
+### Core Java
+- Loops
+- Methods
+- Arrays
+- Strings
+- OOP
+- Exception Handling
+- Collections Framework
+- Searching & Sorting
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- PyCharm
+
+---
+
+## 📂 Projects
+
+- 🌍 AI Language Translator
+- 📄 AI Resume Analyzer
+- 🛒 Urban Cart
+- 📱 Mobile App Capstone
+- 📊 Sports Analytics Dashboard
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- MySQL
+  
+
+
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Varanesh-PR
+
+
+---
+
+⭐ Thanks for visiting my profile!
