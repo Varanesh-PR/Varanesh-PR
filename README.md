@@ -56,9 +56,7 @@ To become a skilled Software Developer by building real-world projects and impro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&hide_border=true)
----
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varanesh-PR)
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact)
