@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Computer+Science+Student;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
 </p>
 
+---
 ---
 
 # 👋 About Me
