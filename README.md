@@ -35,10 +35,16 @@
 </p>
 
 ---
+ # 📊 GITHUB ACTIVITY
+ 
+Consistently practicing Data Structures & Algorithms
+Building Java-based projects
+Continuously improving coding and problem-solving skills
+
  # 🔥 Contribution Streak
  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
+  <img src="https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical" />
 </p>
 
 ---
