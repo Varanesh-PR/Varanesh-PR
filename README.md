@@ -4,12 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00F5FF&height=120&section=header&text=AVAILABLE%20FOR%20HIRE%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff" />
 </p>
 
+
+
 <!-- 🔥 BIG WELCOME + NAME ANIMATED HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Hi+I'm+Varanesh+P+R;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
 </p>
 
----
+
 
 # 👋 About Me
 
@@ -18,7 +20,7 @@
 🧠 Strong Focus on DSA & Problem Solving  
 🚀 Passionate About Building Real-World Projects  
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -30,7 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
  # 📊 GITHUB ACTIVITY
  
 Consistently practicing Data Structures & Algorithms
@@ -43,7 +45,7 @@ Continuously improving coding and problem-solving skills
   <img src="https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical" />
 </p>
 
----
+
 
 # 📈 Activity Graph
 
@@ -51,7 +53,7 @@ Continuously improving coding and problem-solving skills
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanesh-PR&theme=react-dark" />
 </p>
 
----
+
 
 
 # 📊 Skill Progress
@@ -62,7 +64,7 @@ SQL  ███████░░░░░ 60%
 OOP  █████████░░░ 80%  
 Git  ████████░░░░ 75%
 
----
+
 
 # 🌐 Portfolio
 
@@ -74,7 +76,6 @@ Git  ████████░░░░ 75%
 - Mobile App Capstone  
 - Sports Analytics Dashboard  
 
----
 
 # 🧠 Interview Profile
 
@@ -83,12 +84,11 @@ Git  ████████░░░░ 75%
 🧠 Strong in DSA & Problem Solving  
 🛠️ Good Understanding of OOP & SQL  
 
----
+
 
 # 📫 Connect With Me
 
 GitHub: https://github.com/Varanesh-PR  
 
----
 
 # ⭐ Thanks for visiting my profile!
