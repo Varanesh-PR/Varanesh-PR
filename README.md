@@ -1,7 +1,16 @@
 
-<!-- 🔥 BIG WELCOME + NAME ANIMATED HEADER -->
+<!-- 🔥 HIRE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Hi+I'm+Varanesh+P+R;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00F5FF&height=120&section=header&text=AVAILABLE%20FOR%20HIRE%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff" />
+</p>
+
+<!-- 🔥 HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F5FF&height=220&section=header&text=Varanesh%20P%20R&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Computer+Science+Student;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -10,38 +19,41 @@
 
 🎓 Computer Science Student  
 💻 Aspiring Java Developer  
-🚀 Passionate about Problem Solving & Development  
+🧠 Strong Focus on DSA & Problem Solving  
+🚀 Passionate About Building Real-World Projects  
 
 ---
 
-# 🛠️ Skills
+# 🛠️ Tech Stack
 
-## 💻 Programming & DSA
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-FF4C4C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Status
+# 📊 GitHub Stats
 
-⭐ Public Repositories: Check profile  
-📈 Contributions: Active on GitHub  
-💻 Focus: Java + DSA + SQL  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varanesh-PR&theme=react-dark" />
@@ -49,26 +61,49 @@
 
 ---
 
-# 🧠 Dev Quote
+# 🐍 Contribution Snake (3D Style)
 
-> “Every problem I solve in DSA makes me a better problem solver in real life.”
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-# 📂 Projects
+# 📊 Skill Progress
 
-- 🌍 AI Language Translator  
-- 📄 AI Resume Analyzer  
-- 🛒 Urban Cart  
-- 📱 Mobile App Capstone  
-- 📊 Sports Analytics Dashboard  
+Java ██████████░░ 85%  
+DSA  ████████░░░░ 70%  
+SQL  ███████░░░░░ 60%  
+OOP  █████████░░░ 80%  
+Git  ████████░░░░ 75%
+
+---
+
+# 🌐 Portfolio
+
+🚀 Coming Soon: Personal Portfolio Website  
+📌 Projects:
+- AI Language Translator  
+- AI Resume Analyzer  
+- Urban Cart  
+- Mobile App Capstone  
+- Sports Analytics Dashboard  
+
+---
+
+# 🧠 Interview Profile
+
+🎓 Computer Science Student  
+💻 Java Developer (Beginner → Intermediate)  
+🧠 Strong in DSA & Problem Solving  
+🛠️ Good Understanding of OOP & SQL  
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/Varanesh-PR  
+GitHub: https://github.com/Varanesh-PR  
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile!
+# ⭐ Thanks for visiting my profile!
