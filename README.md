@@ -26,7 +26,7 @@
 
 ---
 
-# 📊 GitHub Status (SAFE TEXT VERSION)
+# 📊 GitHub Status 
 
 ⭐ Public Repositories: Check profile  
 📈 Contributions: Active on GitHub  
@@ -34,6 +34,12 @@
 🔥 Focus: DSA + Java Development  
 
 ---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  ![Streak](https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical)
+</p>
 
 # 📈 GitHub Activity Graph
 
