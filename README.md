@@ -1,67 +1,52 @@
-# 👋 Hi, I'm Varanesh P R
+
+<!-- 🔥 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Varanesh+P+R;Java+Developer+in+Progress;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
+</p>
 
 ---
 
-## 💡 About Me
+# 👋 About Me
 
 🎓 Computer Science Student  
 💻 Aspiring Java Developer  
-
-🌱 Currently learning:
-- Core Java
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
-- SQL
-- Python  
-
-🎯 Goal:
-To become a skilled Software Developer by building real-world projects and improving problem-solving skills.
+🚀 Passionate about Problem Solving & Backend Development  
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- Python
-- SQL
-
-### Core Java
-- Loops
-- Methods
-- Arrays
-- Strings
-- OOP
-- Exception Handling
-- Collections Framework
-- Searching & Sorting
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- PyCharm
+## 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats (STABLE - NO ERRORS)
 
-- 🌍 AI Language Translator  
-- 📄 AI Resume Analyzer  
-- 🛒 Urban Cart  
-- 📱 Mobile App Capstone  
-- 📊 Sports Analytics Dashboard  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
+</p>
 
 ---
 
+## 🔥 Contribution Streak (SAFE)
 
-## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical)
+---
 
-## 💡 Dev Quote
+## 🧠 Dev Quote
 
 > “Every problem I solve in DSA makes me a better problem solver in real life.”
+
+---
 
 ## 📫 Connect With Me
 
