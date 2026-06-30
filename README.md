@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varanesh P R
 
-## 🚀 About Me
+##  About Me
 
 🎓 Computer Science Student
 
