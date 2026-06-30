@@ -5,6 +5,7 @@
 </p>
 
 <!-- 🔥 HERO HEADER -->
+<!-- 🔥 TOP GRADIENT HEADER (FAKE BACKGROUND STYLE) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F5FF&height=220&section=header&text=Varanesh%20P%20R&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
