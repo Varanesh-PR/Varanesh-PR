@@ -1,7 +1,7 @@
 
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Varanesh+P+R;Java+Developer+in+Progress;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Varanesh+P+R;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -25,16 +25,33 @@
 
 ---
 
-## 📊 GitHub Stats (STABLE - NO ERRORS)
+# 📂 Projects
+
+- 🌍 AI Language Translator  
+- 📄 AI Resume Analyzer  
+- 🛒 Urban Cart  
+- 📱 Mobile App Capstone  
+- 📊 Sports Analytics Dashboard  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=default" height="180"/>
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak (SAFE)
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
@@ -42,16 +59,16 @@
 
 ---
 
-## 🧠 Dev Quote
+# 🧠 Dev Quote
 
 > “Every problem I solve in DSA makes me a better problem solver in real life.”
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - GitHub: https://github.com/Varanesh-PR  
 
 ---
 
-⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting my profile!
