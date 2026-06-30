@@ -4,18 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:00F5FF&height=120&section=header&text=AVAILABLE%20FOR%20HIRE%20%F0%9F%92%BC&fontSize=30&fontColor=ffffff" />
 </p>
 
-<!-- 🔥 HERO HEADER -->
-<!-- 🔥 TOP GRADIENT HEADER (FAKE BACKGROUND STYLE) -->
+<!-- 🔥 TOP HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F5FF&height=220&section=header&text=Varanesh%20P%20R&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;Java+Developer;DSA+%7C+OOP+%7C+SQL+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F5FF&center=true&vCenter=true&width=800&lines=Java+Developer;DSA+Problem+Solver;Computer+Science+Student;Building+Real+World+Projects" />
 </p>
-
----
----
 
 # 👋 About Me
 
