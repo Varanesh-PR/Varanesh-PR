@@ -35,18 +35,9 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
+ # 🔥 Contribution Streak
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
-</p>
-
----
-
-<p align="center">
-  🔥 Contribution Streak: <br>
   <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
 </p>
 
@@ -60,13 +51,6 @@
 
 ---
 
-# 🐍 Contribution Snake (3D Style)
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 📊 Skill Progress
 
