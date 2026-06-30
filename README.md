@@ -59,10 +59,9 @@ To become a skilled Software Developer by building real-world projects and impro
 
 ![Streak](https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical)
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
+> “Every problem I solve in DSA makes me a better problem solver in real life.”
 
 ## 📫 Connect With Me
 
