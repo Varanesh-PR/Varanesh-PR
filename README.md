@@ -68,7 +68,7 @@ To become a skilled Software Developer by building real-world projects and impro
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Varanesh-PR)
+![Streak](https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical)
 
 ---
 
