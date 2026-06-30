@@ -82,7 +82,7 @@ To become a skilled Software Developer by building real-world projects and conti
 
 # 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varanesh-PR&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Varanesh-PR&theme=radical)
 
 ---
 
