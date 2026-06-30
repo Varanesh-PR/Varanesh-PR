@@ -70,13 +70,12 @@ To become a skilled Software Developer by building real-world projects and conti
 
 ⭐ Thanks for visiting my profile!
 
-# 👋 Hi, I'm Varanesh P R
+
 
 ---
-
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
@@ -88,12 +87,10 @@ To become a skilled Software Developer by building real-world projects and conti
 
 # 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Varanesh-PR&theme=radical&margin-w=10&row=2&column=3)
-
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varanesh-PR&theme=radical&no-frame=true&margin-w=10&row=2&column=3)
