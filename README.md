@@ -45,9 +45,8 @@
 
 ---
 
-# 🔥 Contribution Streak
-
 <p align="center">
+  🔥 Contribution Streak: <br>
   <img src="https://streak-stats.demolab.com?user=Varanesh-PR" />
 </p>
 
