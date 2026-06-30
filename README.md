@@ -19,33 +19,16 @@
 ## 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-FF4C4C?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
-
-# 📂 Projects
-
-- 🌍 AI Language Translator  
-- 📄 AI Resume Analyzer  
-- 🛒 Urban Cart  
-- 📱 Mobile App Capstone  
-- 📊 Sports Analytics Dashboard  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true&theme=default" height="180"/>
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varanesh-PR&show_icons=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varanesh-PR&layout=compact" height="180"/>
 </p>
 
@@ -59,9 +42,31 @@
 
 ---
 
+# 📈 GitHub Activity Graph
+
+[![Varanesh's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varanesh-PR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varanesh-PR&theme=radical&no-frame=true&margin-w=10&row=2&column=3)
+
+---
+
 # 🧠 Dev Quote
 
 > “Every problem I solve in DSA makes me a better problem solver in real life.”
+
+---
+
+# 📂 Projects
+
+- 🌍 AI Language Translator  
+- 📄 AI Resume Analyzer  
+- 🛒 Urban Cart  
+- 📱 Mobile App Capstone  
+- 📊 Sports Analytics Dashboard  
 
 ---
 
@@ -71,4 +76,4 @@
 
 ---
 
-# ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
